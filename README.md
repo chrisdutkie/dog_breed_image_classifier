@@ -1,5 +1,5 @@
 # Dog Breed Image Classifier
-![Testing model performance on pug input photo]([http://pug_test.png(https://github.com/chrisdutkie/dog_breed_image_classifier/blob/main/pug_test.png)])
+![Testing model performance on pug input photo](https://github.com/chrisdutkie/dog_breed_image_classifier/blob/main/pug_test.png)
 ## Overview
 This Python script makes use of TensorFlow’s built-in Convolutional Neural Network (CNN) functions to build, train, and validate a CNN model capable of classifying dog breeds based on an input photo. 
 
